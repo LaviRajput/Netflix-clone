@@ -26,4 +26,4 @@ As part of learning to code,I completed a project that involved creating a basic
 ![alt text](Second.jpg)
 
 ## Preview Video-
-<video controls src="preview.mp4" title="Title"></video>
+[![Video Title]https://youtu.be/DbGDPi1dm6Q]
